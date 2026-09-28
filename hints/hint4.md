@@ -1,0 +1,1 @@
+Once we know which index to split the array with, we can use the Array.slice() method to get messagesToSummarize and remainingMessages.
